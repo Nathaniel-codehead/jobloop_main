@@ -1,0 +1,23 @@
+body {
+    background-color: #333;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+#block_container {
+    border-bottom: 5px;
+    border-color: black;
+    border-style: solid;
+    width: inherit;
+    height: fit-content;
+}
+
+.block {
+    border: 8px solid #722;
+    background-color: #a33;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 0px;
+}
